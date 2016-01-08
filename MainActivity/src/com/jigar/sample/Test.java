@@ -5,6 +5,8 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Toast;
 
+
+/*Add interface*/
 interface OnCustomEventListener {
 	public void callback(String result, String result1); // method, which can
 															// have parameters
